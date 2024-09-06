@@ -5,7 +5,7 @@
     "start_url": "/",
     "background_color": "#f070ea",
     "theme_color": "#f070ea",
-    "description": "Ecommerce de ejemplo PWA",
+    "description": "Espero 'Te Prendas' es una aplicación progresiva de ejemplo, que utiliza la tecnología PWA.",
     "scope": "/",
     "display": "standalone",
     "orientation": "portrait",
