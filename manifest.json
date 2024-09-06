@@ -5,7 +5,7 @@
     "background_color": "#ffffff",
     "theme_color": "#f070ea",
     "description": "Ecommerce de ejemplo PWA",
-    "scope": "/",
+    "scope": "/ecommerce/",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [
