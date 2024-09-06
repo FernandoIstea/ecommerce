@@ -1,7 +1,7 @@
 {
     "short_name": "PRENDAS",
     "name": "Espero te prendas",
-    "start_url": "/",
+    "start_url": "/ecommerce/",
     "background_color": "#ffffff",
     "theme_color": "#f070ea",
     "description": "Ecommerce de ejemplo PWA",
