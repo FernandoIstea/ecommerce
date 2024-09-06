@@ -1,11 +1,12 @@
 {
     "short_name": "PRENDAS",
     "name": "Espero te prendas",
-    "start_url": "/ecommerce/",
+    "version": "1.0.1",
+    "start_url": "/",
     "background_color": "#f070ea",
     "theme_color": "#f070ea",
     "description": "Ecommerce de ejemplo PWA",
-    "scope": "/ecommerce/",
+    "scope": "/",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [
@@ -43,27 +44,17 @@
     "screenshots": [
         {
             "src": "./images/screenshot390x790.png",
-            "sizes": "3900x790",
+            "sizes": "389x790",
             "type": "image/png",
-            "form_factor": "mobile"
-        },
-        {
-            "src": "./images/screenshot660x1000.png",
-            "sizes": "660x1000",
-            "type": "image/png",
-            "form_factor": "tablet"
-        },
-        {
-            "src": "./images/screenshot1200x840.png",
-            "sizes": "1200x840",
-            "type": "image/png",
-            "form_factor": "wide"
+            "form_factor": "narrow",
+            "label": "Espero te prendas en versión mobile"
         },
         {
             "src": "./images/screenshot1600x1000.png",
-            "sizes": "1600x1000",
+            "sizes": "1646x1055",
             "type": "image/png",
-            "form_factor": "wide"
+            "form_factor": "wide",
+            "label": "Espero te prendas para computadoras de escritorio"
         }
     ]
 }
