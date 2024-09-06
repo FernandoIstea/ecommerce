@@ -214,12 +214,12 @@ a {
     }
 
     div.logo-carrito {
-        height: 40px;
-        width: 40px;
+        height: 70px;
+        width: 70px;
 
         & img {
-            width: 20px;
-            height: 20px;
+            width: 40px;
+            height: 40px;
         }
     }
 }
