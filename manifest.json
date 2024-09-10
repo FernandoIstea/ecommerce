@@ -2,7 +2,7 @@
     "short_name": "PRENDAS",
     "name": "Espero te prendas",
     "version": "1.0.1",
-    "start_url": "/index.html",
+    "start_url": "/ecommerce/index.html",
     "background_color": "#f070ea",
     "theme_color": "#f070ea",
     "description": "Espero 'Te Prendas' es una aplicación progresiva de ejemplo, que utiliza la tecnología PWA.",
